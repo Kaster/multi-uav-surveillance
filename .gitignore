@@ -1,0 +1,44 @@
+# Compiled Classes
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.dmg
+*.gz
+*.iso
+*.tar
+*.sar
+
+# Logs
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Virtual Machine Crash Logs
+hs_err_pid*
+
+# Maven 
+target/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
+nb-configuration.xml
+
+# macOS
+.DS_Store
